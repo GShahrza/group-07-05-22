@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2cbd8f7-d6c2-4db0-94e6-350a0e78886a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/group-07-05-22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/lesson/FirstLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/warmup/DivideTheApples1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/warmup/HelloWorld.java" afterDir="false" />
+    <list default="true" id="a2cbd8f7-d6c2-4db0-94e6-350a0e78886a" name="Changes" comment="first lesson">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_2/lesson/ConditionalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_2/warmup/Abc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_2/warmup/DivideTheApples2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_2/warmup/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_2/warmup/SimpleProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,18 +37,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Rza/IdeaProjects/group-07-05-22",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.main.java.lesson_1.FirstLesson">
-    <configuration name="DivideTheApples1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.lesson_1.warmup.DivideTheApples1" />
+  <component name="RunManager" selected="Application.ConditionalOperators">
+    <configuration name="Abc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.lesson_2.warmup.Abc" />
       <module name="group-07-05-22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.lesson_1.warmup.*" />
+          <option name="PATTERN" value="main.java.lesson_2.warmup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.lesson_1.lesson.FirstLesson" />
+    <configuration name="ConditionalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.lesson_2.lesson.ConditionalOperators" />
       <module name="group-07-05-22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.lesson_1.lesson.*" />
+          <option name="PATTERN" value="main.java.lesson_2.lesson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.lesson_1.warmup.HelloWorld" />
+    <configuration name="DivideTheApples2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.lesson_2.warmup.DivideTheApples2" />
       <module name="group-07-05-22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.lesson_1.warmup.*" />
+          <option name="PATTERN" value="main.java.lesson_2.warmup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaTest.Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTest.Test2" />
+    <configuration name="Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.lesson_2.warmup.Print" />
       <module name="group-07-05-22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaTest.*" />
+          <option name="PATTERN" value="main.java.lesson_2.warmup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaTest.lesson_1.FirstLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTest.lesson_1.FirstLesson" />
+    <configuration name="SimpleProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.lesson_2.warmup.SimpleProblem" />
       <module name="group-07-05-22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaTest.lesson_1.*" />
+          <option name="PATTERN" value="main.java.lesson_2.warmup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main.java.lesson_1.FirstLesson" />
-        <item itemvalue="Application.DivideTheApples1" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.javaTest.lesson_1.FirstLesson" />
-        <item itemvalue="Application.javaTest.Test2" />
+        <item itemvalue="Application.ConditionalOperators" />
+        <item itemvalue="Application.SimpleProblem" />
+        <item itemvalue="Application.DivideTheApples2" />
+        <item itemvalue="Application.Abc" />
+        <item itemvalue="Application.Print" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +128,14 @@
       <option name="presentableId" value="Default" />
       <updated>1651926928729</updated>
     </task>
+    <task id="LOCAL-00001" summary="first lesson">
+      <created>1651944721311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651944721311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,5 +148,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="first lesson" />
   </component>
 </project>
