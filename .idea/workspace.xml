@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2cbd8f7-d6c2-4db0-94e6-350a0e78886a" name="Changes" comment="lesson6">
+    <list default="true" id="a2cbd8f7-d6c2-4db0-94e6-350a0e78886a" name="Changes" comment="lesson7">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/lesson/Array2DEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/lesson/CalculatorEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/lesson/MethodEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/warmup/BiggerThanPrevious.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/warmup/DivisorsOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/warmup/NeighborsOfTheSameSign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/warmup/SumWithoutMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/warmup/TheArithmeticMeanOfPositive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_6/warmup/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_6/warmup/RandomNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_6/warmup/RandomNumber.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +14,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -182,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652796034823</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="lesson7">
+      <created>1653150258807</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653150258807</updated>
+    </task>
+    <task id="LOCAL-00009" summary="lesson7">
+      <created>1653150307068</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653150307068</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +216,7 @@
     <MESSAGE value="some changes" />
     <MESSAGE value="lesson5" />
     <MESSAGE value="lesson6" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson6" />
+    <MESSAGE value="lesson7" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson7" />
   </component>
 </project>
