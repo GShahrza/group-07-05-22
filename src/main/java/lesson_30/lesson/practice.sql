@@ -75,3 +75,44 @@ from (select count(c.id) sa
       group by c.company_id
       having count(c.id) > 0) Cs
 
+
+
+
+SELECT c.name,sum(e.salary) from azercell.company c
+                                     inner join azercell.employer E on c.id = E.company_id
+group by c.id;
+
+
+select  max(sa) from (select count(c.id) sa from azercell.employer C where  c.company_id is not null
+                      group by  c.company_id having count(c.id)>0 )  Cs;
+
+
+
+select e.surname, e.name from azercell.employer e order by  e.surname , e.name asc ;
+
+
+
+
+select t.name , t.surname telebeSoyad , m.ad mellimAd , m.soyad mellimSoyad from azercell.telebe t
+                                                                                     inner join azercell.telebe_muellim tm on t.id = tm.telebe_id
+                                                                                     inner join azercell.muellim m on m.id = tm.muellim_id;
+
+
+select  * from azercell.telebe t where t.created_date = '2022-07-28';
+
+
+select  * from azercell.telebe t where t.created_date between '2022-01-28' and '2022-07-28';
+
+select  to_char(t.created_date , 'dd.mm.yy') from azercell.telebe t where t.created_date between  to_date('01.07.2022','dd.mm.yyyy') and
+                                                                              to_date('28.07.2022','dd.mm.yyyy');
+
+
+
+
+select t.name from   azercell.telebe t
+union all
+select m.ad
+from azercell.muellim m;
+
+
+
